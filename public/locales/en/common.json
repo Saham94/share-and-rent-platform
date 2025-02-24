@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Share & Rent - Share and rent personal items",
+    "welcome": "Welcome to Share & Rent",
+    "description": "The new way to share and rent your personal items with confidence"
+  },
+  "features": {
+    "share": "Share",
+    "shareDescription": "Give your items a second life by sharing them with your community",
+    "rent": "Rent",
+    "rentDescription": "Find exactly what you need, when you need it",
+    "connect": "Connect",
+    "connectDescription": "Join a caring and responsible sharing community"
+  },
+  "cta": {
+    "title": "Join the Community",
+    "description": "Start sharing and renting today",
+    "button": "Get Started Now"
+  },
+  "navigation": {
+    "home": "Home",
+    "search": "Search",
+    "profile": "Profile",
+    "messages": "Messages"
+  }
+}
