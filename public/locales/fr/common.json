@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Share & Rent - Partagez et louez entre particuliers",
+    "welcome": "Bienvenue sur Share & Rent",
+    "description": "La nouvelle façon de partager et louer vos biens personnels en toute confiance"
+  },
+  "features": {
+    "share": "Partagez",
+    "shareDescription": "Donnez une seconde vie à vos objets en les partageant avec votre communauté",
+    "rent": "Louez",
+    "rentDescription": "Trouvez exactement ce dont vous avez besoin, quand vous en avez besoin",
+    "connect": "Connectez",
+    "connectDescription": "Rejoignez une communauté de partage bienveillante et responsable"
+  },
+  "cta": {
+    "title": "Rejoignez la communauté",
+    "description": "Commencez à partager et louer dès aujourd'hui",
+    "button": "Commencer maintenant"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "search": "Rechercher",
+    "profile": "Profil",
+    "messages": "Messages"
+  }
+}
